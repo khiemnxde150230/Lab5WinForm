@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormInput", "FormInput\FormInput.csproj", "{AA34E656-E5F8-4C2D-BF5E-4CC442E5A59C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{510A9E40-9954-48E0-8155-677C94560B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormWithCheckboxRadioButton", "WinFormWithCheckboxRadioButton\WinFormWithCheckboxRadioButton.csproj", "{38DD71D1-9FB5-4310-B9C9-D4F8FF1E7B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA34E656-E5F8-4C2D-BF5E-4CC442E5A59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA34E656-E5F8-4C2D-BF5E-4CC442E5A59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA34E656-E5F8-4C2D-BF5E-4CC442E5A59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA34E656-E5F8-4C2D-BF5E-4CC442E5A59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510A9E40-9954-48E0-8155-677C94560B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510A9E40-9954-48E0-8155-677C94560B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510A9E40-9954-48E0-8155-677C94560B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510A9E40-9954-48E0-8155-677C94560B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DD71D1-9FB5-4310-B9C9-D4F8FF1E7B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DD71D1-9FB5-4310-B9C9-D4F8FF1E7B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DD71D1-9FB5-4310-B9C9-D4F8FF1E7B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DD71D1-9FB5-4310-B9C9-D4F8FF1E7B92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFAA80D7-2743-4195-9EB8-7736C58045C7}
+	EndGlobalSection
+EndGlobal
